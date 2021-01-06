@@ -31,7 +31,7 @@ h3{
     float:left;
     margin-left: 3%;
     padding-left: 2%;
-    background-color: white;
+    
 
 }
 
@@ -62,20 +62,20 @@ section{
      color: rgb(245, 119, 73);
      
 }
-.half-width1 img{
+.half-width1{
 
     width: 25%;
     float:left;
     margin-left: 3%;
     padding-left: 2%;
-    border: 1px solid grey;
-    padding-top: 2%;
+    border: 1px solid rgb(221, 216, 216);
     background-color: white;
     border-radius: 5%;
+    box-shadow: 10px 10px 20px grey;
 
 }
 .half-width1 img{
-    width: 25%;
+    width: 90%;
 }
 .latest-work2{
     text-align: center;
@@ -90,5 +90,18 @@ section{
 }
 
 .work-inquery{
+
+    height:200px;
     background-image: url(images/Group_33094_1.png);
+    width: 750px;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    padding: 0px 30px;
+    text-align: justify;
+}
+footer p{
+    text-align: center;
 }
