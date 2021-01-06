@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(19, 19, 87);
+   
+}
+h3{
+    color: black;
+    font-size: 25px;
+    font-style: bold;
+    
+}
+.name-highlight{
+    color: rgb(19, 19, 87);
+}
+.name-highlight1{
+    color: rgb(245, 119, 73);
+
+}
+
+
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+    background-color: white;
+
+}
+
+.half-width img{
+     width: 90%;
+}
+.top-banner{
+
+    background-image: url(images/top-banner.png);
+}
+section{
+    height: 500px;
+    padding: bottom 150px; 
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+
+}
+.latest-work1{
+    
+     text-align: center;
+     color: rgb(245, 119, 73);
+     
+}
+.half-width1 img{
+
+    width: 25%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border: 1px solid grey;
+    padding-top: 2%;
+    background-color: white;
+    border-radius: 5%;
+
+}
+.half-width1 img{
+    width: 25%;
+}
+.latest-work2{
+    text-align: center;
+    margin-top: 5px;
+   
+    margin-top: 5;
+}
+.latest-work{
+    background-color: rgb(240, 231, 231);
+    padding-top: 15px;
+    margin-top: 2%;
+}
+
+.work-inquery{
+    background-image: url(images/Group_33094_1.png);
+}
